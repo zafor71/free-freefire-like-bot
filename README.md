@@ -103,7 +103,7 @@ RAPIDAPI_KEY=your_rapidapi_key_or_custom_api_key
    ```
 6. If you don't have api like you can go to rapid api to create account in link  `.env` file: https://rapidapi.com/greatthug/api/free-fire-like1
       ```ini
-   RAPIDAPI_KEY=your_bot_token
+   RAPIDAPI_KEY=your api key from rapid api
    
    ```
 

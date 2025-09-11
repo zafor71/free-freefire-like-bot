@@ -15,7 +15,7 @@ CONFIG_FILE = "like_channels.json"
 class LikeCommands(commands.Cog):
     def __init__(self, bot):
         self.bot = bot
-        self.api_host = "https://likexthug.vercel.app/like?uid={uid}&region={region}&key=GREAT"
+        self.api_host = "https://lordlike.onrender.com/like?uid={uid}&region={region}&key=GREAT"
         self.config_data = self.load_config()
         self.cooldowns = {}
         self.session = aiohttp.ClientSession()
